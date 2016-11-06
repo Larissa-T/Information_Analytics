@@ -17,7 +17,7 @@ that would mean that you would have a perfect system that takes in account all k
 Since the beginngin of the internet people have tried to apply the linear structures of classic categorization
 and classification in order to organize the web but what is becoming more and more obvious is that the web isn't
 linear at all. The web is much more flued and dynamic. --> _will the web a semi visual representation of the brain?_
-![https://xalwaysdreamx.files.wordpress.com/2015/11/avabrain.jpg]
+![ex machina wetware](https://xalwaysdreamx.files.wordpress.com/2015/11/avabrain.jpg)
 
 --> categories are depened on language as language changes so do the categories: words come and go
 
