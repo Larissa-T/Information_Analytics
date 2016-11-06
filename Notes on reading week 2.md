@@ -9,19 +9,19 @@ Yes finally someone who agrees that a linear approach of categorisation isn't th
  2. Ontology: AI
 	Explicit specification of a conceptualization
 	
-Both are concerend with the eclassification and/or categorization of entities
+Both are concerned with the classification and/or categorization of entities
 
-the idea that everything has a logical place within a system even before it exsits is impossible because
-that would mean that you would have a perfect system that takes in account all known and **unkown**	information
+the idea that everything has a logical place within a system even before it exists is impossible because
+that would mean that you would have a perfect system that takes in account all known and **unknown**	information
 
-Since the beginngin of the internet people have tried to apply the linear structures of classic categorization
+Since the beginning of the internet people have tried to apply the linear structures of classic categorization
 and classification in order to organize the web but what is becoming more and more obvious is that the web isn't
-linear at all. The web is much more flued and dynamic. --> _will the web a semi visual representation of the brain?_
+linear at all. The web is much more fluid and dynamic. --> _will the web a semi visual representation of the brain?_
 ![ex machina wetware](https://xalwaysdreamx.files.wordpress.com/2015/11/avabrain.jpg)
 
---> categories are depened on language as language changes so do the categories: words come and go
+--> categories are depended on language as language changes so do the categories: words come and go
 
->People have been freaking out about the virtuality of data for decades, and you'd think we'd have internalized
+>People have been freaking out about the virtualy of data for decades, and you'd think we'd have internalized
 the obvious truth: there is no shelf. In the digital world, there is no physical constraint that's forcing this kind
 of organization on us any longer.
 
@@ -40,9 +40,9 @@ a large repository of natural language comes to live -> people are linking topic
  
  --> page 10: can the type of taggs people use predict their social status because of jargon? see page 14
  
- --> page 13: everyone tagging acourding to their own requirment and thereby organizing the web: 
+ --> page 13: everyone tagging according to their own requirement and thereby organizing the web: 
 	isn't that only on the basis that human thinking is to some point equal to everyone? and will that
-	lead to a universal langauge where a basic set of words and meanings on which we all agree on? Webspeak
+	lead to a universal language where a basic set of words and meanings on which we all agree on? Webspeak
 	
 --> page 14: different levels of tagging: doesn't it reflect user participation on the web where there are about
 	few who are very active and many who are hardly active at all
