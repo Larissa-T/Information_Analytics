@@ -52,3 +52,16 @@ context-dependent and temporary." Well, so was the category "East Germany."
 
 --> lol funny
 
+## **Digital Curation for Digital Natives by Elizabeth Yakel**
+
+To be very honest I don't really get why we are reading this text or even why this is published.  
+This text seems to be a internal document that either justifies or elaborates on a plan for updating the
+archive program to focus on the digital age and prep students for the 21e century curating digital objects.
+Which is all great if you are an archivist but it seems to me that for information science the approach is 
+generally to look at the users point of view and brings the user to the information whereas the archivist
+looks from the objects point of view and brings the objects/information to the user. 
+
+In comparison to the Shirky text the approach the school of information takes is still a very linear
+way of categorization by applying old paper based systems to digitized information. They are not really radically
+changing their programs they are actually just doing the same things but on a computer.
+
