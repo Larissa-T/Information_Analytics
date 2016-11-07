@@ -54,6 +54,8 @@ context-dependent and temporary." Well, so was the category "East Germany."
 
 Interesting post about how [technology hijacks our freedom of choice](https://medium.com/swlh/how-technology-hijacks-peoples-minds-from-a-magician-and-google-s-design-ethicist-56d62ef5edf3#.rvng04bri) through acting as a slot machine. Gives excellent examples of current issues as raised in Shirky's paper.  
 
+And in response to the technology hijack the distractions and interuptions of the social slot machine has now led to [a court case in which an employee need to pay back 1500 euros because he was texting too much and working to little](http://www.nu.nl/economie/4346021/gebruik-whatsapp-werktijd-kost-werknemer-vergoeding.html)
+
 ## **Digital Curation for Digital Natives by Elizabeth Yakel**
 
 To be very honest I don't really get why we are reading this text or even why this is published.  
